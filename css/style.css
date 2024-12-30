@@ -1,0 +1,24 @@
+body {
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.main h1 {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.main p {
+    font-size: 35px;
+    margin: 35px 0;
+}
+
+.main .btn1 {
+    border-radius: 15px;
+    background-color: #0000ff;
+    width: 250px;
+    height: 80px;
+}
+
+.main .btn1:hover {
+    background-color: #008000;
+}
